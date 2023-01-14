@@ -36,6 +36,6 @@
 			</c:forEach>
 		</tbody>
 	</table>
-	<a href="contact">SignUp Again</a>
+	<a href="contact"><label style="color: Green;font-size:20px;">SignUp Again</a>
 </body>
 </html>
