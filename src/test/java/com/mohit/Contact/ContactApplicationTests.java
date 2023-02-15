@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ContactApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void mohittest() {
 	}
 
 }
